@@ -1,0 +1,1247 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "round": 1,
+      "date": "2021.09.01",
+      "name": "김나연",
+      "gender": "female",
+      "birth": "1998.01.01",
+      "phone": "010-9865-2856",
+      "email": "myd@snplab.io",
+      "transportation": [
+        "버스",
+        "지하철",
+        "택시",
+        "자전거"
+      ],
+      "region": "서울특별시 강남구",
+      "win": false
+    },
+    {
+      "id": 2,
+      "round": 1,
+      "name": "고길동",
+      "date": "2021.09.01",
+      "gender": "male",
+      "birth": "2000.10.10",
+      "phone": "010-1234-5678",
+      "email": "highpath_dong@google.com",
+      "transportation": [
+        "전동킥보드"
+      ],
+      "region": "서울특별시 용산구",
+      "win": false
+    },
+    {
+      "id": 3,
+      "round": 1,
+      "name": "김철수",
+      "date": "2021.09.01",
+      "gender": "male",
+      "birth": "2000.10.10",
+      "phone": "010-1234-5678",
+      "email": "FesooKim@google.com",
+      "transportation": [
+        "전동킥보드",
+        "버스",
+        "지하철",
+        "자가용"
+      ],
+      "region": "서울특별시 용산구",
+      "win": false
+    },
+    {
+      "id": 4,
+      "round": 1,
+      "name": "고길동",
+      "date": "2021.09.01",
+      "gender": "male",
+      "birth": "1979.10.16",
+      "phone": "010-1234-5678",
+      "email": "salary_gildong_man@google.com",
+      "transportation": [
+        "버스",
+        "도보",
+        "지하철"
+      ],
+      "region": "서울특별시 마포구",
+      "win": false
+    },
+    {
+      "id": 5,
+      "round": 1,
+      "name": "김수영",
+      "date": "2021.09.05",
+      "gender": "female",
+      "birth": "1987.12.15",
+      "phone": "010-8765-4321",
+      "email": "swimming@google.com",
+      "transportation": [
+        "자가용"
+      ],
+      "region": "경기도 고양시",
+      "win": false
+    },
+    {
+      "id": 6,
+      "round": 1,
+      "name": "최또치",
+      "date": "2021.09.22",
+      "gender": "female",
+      "birth": "2000.10.10",
+      "phone": "010-9832-5678",
+      "email": "againchi@google.com",
+      "transportation": [
+        "KTX/기차"
+      ],
+      "region": "전라남도 광양시",
+      "win": false
+    },
+    {
+      "id": 7,
+      "round": 1,
+      "name": "박영우",
+      "date": "2021.09.21",
+      "gender": "male",
+      "birth": "1956.01.11",
+      "phone": "010-2234-5678",
+      "email": "paywoo@google.com",
+      "transportation": [
+        "KTX/기차",
+        "자가용"
+      ],
+      "region": "충청북도 제천시",
+      "win": false
+    }, {
+      "id": 8,
+      "round": 1,
+      "name": "김밍키",
+      "date": "2021.09.21",
+      "gender": "female",
+      "birth": "1962.07.10",
+      "phone": "010-5678-1111",
+      "email": "queen_mingki@google.com",
+      "transportation": [
+        "버스",
+        "도보",
+        "지하철",
+        "자전거"
+      ],
+      "region": "충청북도 제천시",
+      "win": false
+    }, {
+      "id": 9,
+      "round": 1,
+      "name": "김대기",
+      "date": "2021.09.21",
+      "gender": "male",
+      "birth": "1986.08.22",
+      "phone": "010-9999-5678",
+      "email": "waitingkim@google.com",
+      "transportation": [
+        "버스",
+        "도보",
+        "지하철",
+        "자전거",
+        "KTX/기차"
+      ],
+      "region": "경기도 안산시",
+      "win": false
+    }, {
+      "id": 10,
+      "round": 1,
+      "name": "신동민",
+      "date": "2021.10.01",
+      "gender": "male",
+      "birth": "1999.08.22",
+      "phone": "010-5678-8493",
+      "email": "god-dong-min99@google.com",
+      "transportation": [
+        "전동킥보드"
+      ],
+      "region": "경기도 수원시",
+      "win": false
+    }, 
+    {
+      "id": 11,
+      "round": 1,
+      "name": "신동빈",
+      "date": "2021.10.01",
+      "gender": "male",
+      "birth": "1955.08.10",
+      "phone": "010-1234-5678",
+      "email": "bin@google.com",
+      "transportation": [
+        "전동킥보드",
+        "도보",
+        "택시"
+      ],
+      "region": "서울특별시 용산구",
+      "win": false
+    },
+    {
+      "id": 12,
+      "round": 1,
+      "name": "김연아",
+      "date": "2021.11.5",
+      "gender": "female",
+      "birth": "1990.10.10",
+      "phone": "010-9090-8763",
+      "email": "figure@google.com",
+      "transportation": [
+        "자가용",
+        "택시"
+      ],
+      "region": "강원도 평창군",
+      "win": false
+    },
+    {
+      "id": 13,
+      "round": 1,
+      "name": "신영만",
+      "date": "2021.11.05",
+      "gender": "male",
+      "birth": "1977.10.10",
+      "phone": "010-0983-5678",
+      "email": "zzanggudaddy@google.com",
+      "transportation": [
+        "자전거",
+        "지하철",
+        "버스"
+      ],
+      "region": "경기도 부천시",
+      "win": false
+    },
+    {
+      "id": 14,
+      "round": 1,
+      "name": "나미리",
+      "date": "2021.11.11",
+      "gender": "female",
+      "birth": "2000.10.10",
+      "phone": "010-1234-5678",
+      "email": "teacher@google.com",
+      "transportation": [
+        "전동킥보드",
+        "자전거",
+        "도보"
+      ],
+      "region": "경상북도 경산시",
+      "win": false
+    },
+    {
+      "id": 15,
+      "round": 1,
+      "name": "채송화",
+      "date": "2021.11.11",
+      "gender": "female",
+      "birth": "2000.10.10",
+      "phone": "010-1234-5678",
+      "email": "rose_teacher@google.com",
+      "transportation": [
+        "전동킥보드",
+        "자전거",
+        "도보"
+      ],
+      "region": "경상북도 경산시",
+      "win": false
+    },
+    {
+      "id": 16,
+      "round": 1,
+      "name": "신짱구",
+      "date": "2021.12.01",
+      "gender": "male",
+      "birth": "2000.10.22",
+      "phone": "010-9832-5678",
+      "email": "zzangnine@google.com",
+      "transportation": [
+        "자전거",
+        "지하철",
+        "버스"
+      ],
+      "region": "전라남도 광양시",
+      "win": false
+    },
+    {
+      "id": 17,
+      "round": 1,
+      "name": "김영희",
+      "date": "2021.12.21",
+      "gender": "female",
+      "birth": "1980.01.10",
+      "phone": "010-9900-5678",
+      "email": "younghee@google.com",
+      "transportation": [
+        "전동킥보드",
+        "자전거",
+        "도보",
+        "자가용",
+        "택시",
+        "KTX/기차"
+      ],
+      "region": "전라남도 광양시",
+      "win": false
+    },
+    {
+      "id": 18,
+      "round": 1,
+      "name": "도우너",
+      "date": "2021.12.01",
+      "gender": "male",
+      "birth": "1987.10.22",
+      "phone": "010-9832-5678",
+      "email": "donuts@google.com",
+      "transportation": [
+        "자가용",
+        "택시",
+        "KTX/기차"
+      ],
+      "region": "전라남도 완도군",
+      "win": false
+    },
+    {
+      "id": 19,
+      "round": 1,
+      "name": "둘리",
+      "date": "2021.12.01",
+      "gender": "male",
+      "birth": "1987.10.22",
+      "phone": "010-9832-5678",
+      "email": "dragon@google.com",
+      "transportation": [
+        "택시",
+        "KTX/기차"
+      ],
+      "region": "강원도 강릉시",
+      "win": false
+    },
+    {
+      "id": 20,
+      "round": 1,
+      "name": "뚱이",
+      "date": "2021.12.27",
+      "gender": "male",
+      "birth": "1990.11.22",
+      "phone": "010-9832-5678",
+      "email": "ddongs@google.com",
+      "transportation": [
+        "자가용",
+        "택시",
+        "KTX/기차",
+        "자전거"
+      ],
+      "region": "강원도 강릉시",
+      "win": false
+    },{
+      "id": 21,
+      "round": 2,
+      "date": "2022.01.01",
+      "name": "전다운",
+      "gender": "male",
+      "birth": "1999.09.12",
+      "phone": "010-9513-4965",
+      "email": "jdw@gmail.com",
+      "transportation": ["버스", "지하철"],
+      "region": "부산광역시 강서구",
+      "win": false
+    },
+    {
+      "id": 22,
+      "round": 2,
+      "date": "2022.01.04",
+      "name": "성한울",
+      "gender": "male",
+      "birth": "1995.05.11",
+      "phone": "010-8169-2127",
+      "email": "sunghw@gmail.com",
+      "transportation": ["자가용", "택시"],
+      "region": "경기도 안양시",
+      "win": false
+    },
+    {
+      "id": 23,
+      "round": 2,
+      "date": "2022.01.04",
+      "name": "임태원",
+      "gender": "male",
+      "birth": "2000.02.11",
+      "phone": "010-2610-6115",
+      "email": "imtae1@gmail.com",
+      "transportation": ["자가용", "택시", "자전거"],
+      "region": "충청북도 보은군",
+      "win": false
+    },
+    {
+      "id": 24,
+      "round": 2,
+      "date": "2022.01.15",
+      "name": "전윤희",
+      "gender": "female",
+      "birth": "1989.06.27",
+      "phone": "010-2236-5229",
+      "email": "prevyh@gamil.com",
+      "transportation": ["버스", "지하철"],
+      "region": "서울특별시 금천구",
+      "win": false
+    },
+    {
+      "id": 25,
+      "round": 2,
+      "date": "2022.02.02",
+      "name": "유준태",
+      "gender": "male",
+      "birth": "1993.04.31",
+      "phone": "010-8421-1362",
+      "email": "youjt@gmail.com",
+      "transportation": ["도보", "자전거"],
+      "region": "서울특별시 송파구",
+      "win": false
+    },
+    {
+      "id": 26,
+      "round": 2,
+      "date": "2022.02.02",
+      "name": "류경윤",
+      "gender": "male",
+      "birth": "1997.02.16",
+      "phone": "010-8617-9879",
+      "email": "gyunhwoon@gmail.com",
+      "transportation": ["자가용"],
+      "region": "전라남도 목포시",
+      "win": false
+    },
+    {
+      "id": 27,
+      "round": 2,
+      "date": "2022.02.16",
+      "name": "백수근",
+      "gender": "male",
+      "birth": "1996.09.17",
+      "phone": "010-4015-2644",
+      "email": "backsoogeun@gmail.com",
+      "transportation": ["버스", "지하철", "택시"],
+      "region": "경상남도 남해군",
+      "win": false
+    },
+    {
+      "id": 28,
+      "round": 2,
+      "date": "2022.02.19",
+      "name": "손준성",
+      "gender": "female",
+      "birth": "1998.11.09",
+      "phone": "010-4047-1480",
+      "email": "juncastle@gmail.com",
+      "transportation": ["버스", "지하철", "택시"],
+      "region": "경상북도 구미시",
+      "win": false
+    },
+    {
+      "id": 29,
+      "round": 2,
+      "date": "2022.02.27",
+      "name": "윤소라",
+      "gender": "female",
+      "birth": "1994.05.03",
+      "phone": "010-8246-4171",
+      "email": "yoonconch@naver.com",
+      "transportation": ["자가용", "택시", "KTX/기차"],
+      "region": "강원도 화천군",
+      "win": false
+    },
+    {
+      "id": 30,
+      "round": 2,
+      "date": "2022.03.02",
+      "name": "임영애",
+      "gender": "female",
+      "birth": "1992.05.18",
+      "phone": "010-4794-8421",
+      "email": "youngae0518@gmail.com",
+      "transportation": ["버스", "지하철", "KTX/기차"],
+      "region": "세종특별자치시 세종특별자치시",
+      "win": false
+    },
+    {
+      "id": 31,
+      "round": 2,
+      "date": "2022.03.15",
+      "name": "황혜린",
+      "gender": "female",
+      "birth": "2002.12.14",
+      "phone": "010-0787-9949",
+      "email": "hyelin@naver.com",
+      "transportation": ["택시", "자가용"],
+      "region": "경기도 성남시",
+      "win": false
+    },
+    {
+      "id": 32,
+      "round": 2,
+      "date": "2022.03.18",
+      "name": "조장미",
+      "gender": "female",
+      "birth": "1994.10.06",
+      "phone": "010-8649-5032",
+      "email": "jorose@naver.com",
+      "transportation": ["버스", "지하철", "택시"],
+      "region": "부산광역시 부산진구",
+      "win": false
+    },
+    {
+      "id": 33,
+      "round": 2,
+      "date": "2022.03.19",
+      "name": "임영애",
+      "gender": "female",
+      "birth": "1997.05.04",
+      "phone": "010-3299-2513",
+      "email": "youngbaby@gmail.com",
+      "transportation": ["버스", "지하철"],
+      "region": "서울특별시 성북구",
+      "win": false
+    },
+    {
+      "id": 34,
+      "round": 2,
+      "date": "2022.03.28",
+      "name": "임여진",
+      "gender": "female",
+      "birth": "1998.08.24",
+      "phone": "010-4184-3911",
+      "email": "femalejin@naver.com",
+      "transportation": ["자가용"],
+      "region": "서울특별시 강남구",
+      "win": false
+    },
+    {
+      "id": 35,
+      "round": 2,
+      "date": "2022.04.01",
+      "name": "전가영",
+      "gender": "female",
+      "birth": "1998.05.27",
+      "phone": "010-8977-3302",
+      "email": "imgottago@gmail.com",
+      "transportation": ["지하철", "택시"],
+      "region": "서울특별시 강남구",
+      "win": false
+    },
+    {
+      "id": 36,
+      "round": 2,
+      "date": "2022.04.01",
+      "name": "황현승",
+      "gender": "male",
+      "birth": "1992.09.15",
+      "phone": "010-4565-1119",
+      "email": "hyun0915@gmail.com",
+      "transportation": ["전동킥보드", "자전거", "도보"],
+      "region": "서울특별시 동대문구",
+      "win": false
+    },
+    {
+      "id": 37,
+      "round": 2,
+      "date": "2022.04.13",
+      "name": "임태원",
+      "gender": "male",
+      "birth": "1998.01.01",
+      "phone": "010-4681-0649",
+      "email": "taewon123@naver.com",
+      "transportation": ["버스", "지하철", "택시"],
+      "region": "서울특별시 도봉구",
+      "win": false
+    },
+    {
+      "id": 38,
+      "round": 2,
+      "date": "2022.04.19",
+      "name": "황강민",
+      "gender": "male",
+      "birth": "1995.07.25",
+      "phone": "010-1125-7018",
+      "email": "strongmin0725@gmail.com",
+      "transportation": ["자가용", "KTX/기차"],
+      "region": "경기도 김포시",
+      "win": false
+    },
+    {
+      "id": 39,
+      "round": 2,
+      "date": "2022.04.20",
+      "name": "최경모",
+      "gender": "male",
+      "birth": "1999.09.11",
+      "phone": "010-8036-1645",
+      "email": "gyungmo@naver.com",
+      "transportation": ["버스", "지하철", "택시", "도보"],
+      "region": "서울특별시 마포구",
+      "win": false
+    },
+    {
+      "id": 40,
+      "round": 2,
+      "date": "2022.04.21",
+      "name": "백성한",
+      "gender": "male",
+      "birth": "1998.11.06",
+      "phone": "010-6826-5923",
+      "email": "peoplehan@gmail.com",
+      "transportation": ["버스", "지하철", "택시"],
+      "region": "서울특별시 서초구",
+      "win": false
+    },
+    {
+      "id": 41,
+      "round": 3,
+      "date": "2022.05.05",
+      "name": "우영우",
+      "gender": "female",
+      "birth": "1997.05.05",
+      "phone": "010-1234-0505",
+      "email": "yungwu@gmail.com",
+      "transportation": [
+        "버스",
+        "지하철",
+        "도보"
+      ],
+      "region": "서울특별시 강동구",
+      "win": true
+    },
+ {
+      "id": 42,
+      "round": 3,
+      "date": "2022.05.08",
+      "name": "이준호",
+      "gender": "male",
+      "birth": "1995.09.12",
+      "phone": "010-8880-2210",
+      "email": "kinjunho@gmail.com",
+      "transportation": [
+        "택시",
+        "자가용"
+      ],
+      "region": "서울특별시 송파구",
+      "win": false
+    },
+ {
+      "id": 43,
+      "round": 3,
+      "date": "2022.05.10",
+      "name": "정명석",
+      "gender": "male",
+      "birth": "1983.08.08",
+      "phone": "010-2220-1239",
+      "email": "suk@gmail.com",
+      "transportation": [
+        "택시",
+        "자가용"
+      ],
+      "region": "서울특별시 동작구",
+      "win": false
+    },
+ {
+      "id": 44,
+      "round": 3,
+      "date": "2022.05.12",
+      "name": "동그라미",
+      "gender": "female",
+      "birth": "1997.03.27",
+      "phone": "010-1234-0000",
+      "email": "round@naver.com",
+      "transportation": [
+        "버스",
+        "지하철",
+        "택시"
+      ],
+      "region": "인천광역시 계양구",
+      "win": false
+    },
+
+ {
+      "id": 45,
+      "round": 3,
+      "date": "2022.05.22",
+      "name": "우광호",
+      "gender": "male",
+      "birth": "1973.01.25",
+      "phone": "010-2092-5555",
+      "email": "ho@naver.com",
+      "transportation": [
+        "버스",
+        "지하철",
+        "도보",
+        "KTX/기차"
+      ],
+      "region": "부산광역시 동래구",
+      "win": false
+    },
+ {
+      "id": 46,
+      "round": 3,
+      "date": "2022.05.29",
+      "name": "한선영",
+      "gender": "female",
+      "birth": "1976.03.25",
+      "phone": "010-2092-8899",
+      "email": "han@snplab.io",
+      "transportation": [
+        "택시",
+        "자가용"
+      ],
+      "region": "서울특별시 강남구",
+      "win": false
+    },
+ {
+      "id": 47,
+      "round": 3,
+      "date": "2022.06.05",
+      "name": "태수미",
+      "gender": "female",
+      "birth": "1976.09.12",
+      "phone": "010-2089-3333",
+      "email": "tae@taelab.io",
+      "transportation": [
+        "자가용"
+      ],
+      "region": "서울특별시 서초구",
+      "win": false
+    },
+ {
+      "id": 48,
+      "round": 3,
+      "date": "2022.06.07",
+      "name": "최수연",
+      "gender": "female",
+      "birth": "1997.01.02",
+      "phone": "010-2094-7777",
+      "email": "suyoen@gmail.com",
+      "transportation": [
+        "지하철",
+        "택시"
+      ],
+      "region": "부산광역시 해운대구",
+      "win": false
+    },
+ {
+      "id": 49,
+      "round": 3,
+      "date": "2022.06.12",
+      "name": "권민우",
+      "gender": "male",
+      "birth": "1995.12.05",
+      "phone": "010-3044-5398",
+      "email": "minwu@gmail.com",
+      "transportation": [
+        "버스",
+        "지하철",
+        "전동킥보드"  
+      ],
+      "region": "대구광역시 동구",
+      "win": false
+    },
+ {
+      "id": 50,
+      "round": 3,
+      "date": "2022.06.14",
+      "name": "김민식",
+      "gender": "male",
+      "birth": "1990.10.11",
+      "phone": "010-3044-5398",
+      "email": "minwu@naver.com",
+      "transportation": [
+        "버스",
+        "자전거",
+        "자가용"
+      ],
+      "region": "강원도 속초시",
+      "win": false
+    },
+
+ {
+      "id": 51,
+      "round": 3,
+      "date": "2022.06.16",
+      "name": "오수재",
+      "gender": "female",
+      "birth": "1989.08.01",
+      "phone": "010-6677-2049",
+      "email": "jaejae@gmail.com",
+      "transportation": [
+        "택시",
+        "도보",
+        "자가용"
+      ],
+      "region": "충청북도 충주시",
+      "win": false
+    },
+ {
+      "id": 52,
+      "round": 3,
+      "date": "2022.06.20",
+      "name": "최윤상",
+      "gender": "male",
+      "birth": "1997.01.02",
+      "phone": "010-3983-3809",
+      "email": "sangsnag@gmail.com",
+      "transportation": [
+        "버스",
+        "지하철",
+        "택시",
+        "전동킥보드"
+      ],
+      "region": "대구광역시 동구",
+      "win": false
+    },
+ {
+      "id": 53,
+      "round": 3,
+      "date": "2022.06.21",
+      "name": "최수연",
+      "gender": "female",
+      "birth": "1990.03.25",
+      "phone": "010-5757-0235",
+      "email": "abcdef@snplab.io",
+      "transportation": [
+        "자가용",
+        "KTX/기차",
+        "전동킥보드"
+      ],
+      "region": "경기도 성남시",
+      "win": false
+    },
+ {
+      "id": 54,
+      "round": 3,
+      "date": "2022.06.30",
+      "name": "김준호",
+      "gender": "male",
+      "birth": "2002.04.09",
+      "phone": "010-5544-0235",
+      "email": "hohohoho@snplab.io",
+      "transportation": [
+        "버스",
+        "KTX/기차",
+        "전동킥보드"
+      ],
+      "region": "경기도 하남시",
+      "win": false
+    },
+ {
+      "id": 55,
+      "round": 3,
+      "date": "2022.07.01",
+      "name": "김수연",
+      "gender": "female",
+      "birth": "2004.01.02",
+      "phone": "010-2341-0986",
+      "email": "ssu@gmail.com",
+      "transportation": [
+	      "버스",
+        "지하철"
+      ],
+      "region": "경기도 김포시",
+      "win": false
+    },
+ {
+      "id": 56,
+      "round": 3,
+      "date": "2022.07.05",
+      "name": "정민식",
+      "gender": "male",
+      "birth": "2000.03.23",
+      "phone": "010-6783-2694",
+      "email": "min@snplab.io",
+      "transportation": [
+        "버스",
+        "지하철",
+        "자전거"
+      ],
+      "region": "경기도 수원시",
+      "win": false
+    },
+ {
+      "id": 57,
+      "round": 3,
+      "date": "2022.07.07",
+      "name": "이준호",
+      "gender": "male",
+      "birth": "2010.05.05",
+      "phone": "010-1754-1252",
+      "email": "junununun@gmail.com",
+      "transportation": [
+        "버스",
+        "자전거",
+        "전동킥보드"
+      ],
+      "region": "강원도 인제군",
+      "win": false
+    },
+ {
+      "id": 58,
+      "round": 3,
+      "date": "2022.07.12",
+      "name": "정명석",
+      "gender": "male",
+      "birth": "2001.10.08",
+      "phone": "010-1535-9964",
+      "email": "jung@snplab.io",
+      "transportation": [
+        "버스",
+        "KTX/기차",
+        "자전거"
+      ],
+      "region": "충청남도 공주시",
+      "win": false
+    },
+ {
+      "id": 59,
+      "round": 3,
+      "date": "2022.07.17",
+      "name": "송미림",
+      "gender": "female",
+      "birth": "1994.07.20",
+      "phone": "010-1363-1236",
+      "email": "yungwu@snplab.io",
+      "transportation": [
+        "버스",
+        "자전거",
+        "KTX/기차"
+      ],
+      "region": "경상북도 구미시",
+      "win": false
+    },
+ {
+      "id": 60,
+      "round": 3,
+      "date": "2022.07.21",
+      "name": "민영배",
+      "gender": "male",
+      "birth": "1970.04.02",
+      "phone": "010-9456-2342",
+      "email": "yungwu@snplab.io",
+      "transportation": [
+        "KTX/기차",
+        "자가용"
+      ],
+      "region": "경상북도 경산시",
+      "win": false
+    }
+  ],
+  "region": [
+    {
+      "area": "서울특별시",
+      "zone": [
+        "강남구",
+        "강동구",
+        "강북구",
+        "강서구",
+        "관악구",
+        "광진구",
+        "구로구",
+        "금천구",
+        "노원구",
+        "도봉구",
+        "동대문구",
+        "동작구",
+        "마포구",
+        "서대문구",
+        "서초구",
+        "성동구",
+        "성북구",
+        "송파구",
+        "양천구",
+        "영등포구",
+        "용산구",
+        "은평구",
+        "종로구",
+        "중구",
+        "중랑구"
+      ]
+    },
+    {
+      "area": "인천광역시",
+      "zone": [
+        "계양구",
+        "남동구",
+        "동구",
+        "미추홀구",
+        "부평구",
+        "서구",
+        "연수구",
+        "중구"
+      ]
+    },
+    {
+      "area": "부산광역시",
+      "zone": [
+        "강서구",
+        "금정구",
+        "남구",
+        "동구",
+        "동래구",
+        "부산진구",
+        "북구",
+        "사상구",
+        "사하구",
+        "서구",
+        "수영구",
+        "연제구",
+        "영도구",
+        "중구",
+        "해운대구"
+      ]
+    },
+    {
+      "area": "대전광역시",
+      "zone": [
+        "대덕구",
+        "동구",
+        "서구",
+        "유성구",
+        "중구"
+      ]
+    },
+    {
+      "area": "대구광역시",
+      "zone": [
+        "남구",
+        "달서구",
+        "달서군",
+        "동구",
+        "북구",
+        "서구",
+        "수성구",
+        "중구"
+      ]
+    },
+    {
+      "area": "울산광역시",
+      "zone": [
+        "남구",
+        "동구",
+        "북구",
+        "중구",
+        "울주군"
+      ]
+    },
+    {
+      "area": "광주광역시",
+      "zone": [
+        "광산구",
+        "남구",
+        "동구",
+        "북구",
+        "서구"
+      ]
+    },
+    {
+      "area": "제주특별자치도",
+      "zone": [
+        "서귀포시",
+        "제주시"
+      ]
+    },
+    {
+      "area": "세종특별자치시",
+      "zone": [
+        "세종특별자치시"
+      ]
+    },
+    {
+      "area": "경기도",
+      "zone": [
+        "고양시",
+        "과천시",
+        "광명시",
+        "광주시",
+        "구리시",
+        "군포시",
+        "김포시",
+        "남양주시",
+        "동두천시",
+        "부천시",
+        "성남시",
+        "수원시",
+        "시흥시",
+        "안산시",
+        "안성시",
+        "안양시",
+        "양주시",
+        "여주시",
+        "오산시",
+        "용인시",
+        "의왕시",
+        "의정부시",
+        "이천시",
+        "파주시",
+        "평택시",
+        "포천시",
+        "하남시",
+        "화성시",
+        "가평군",
+        "양평군",
+        "연천군"
+      ]
+    },
+    {
+      "area": "강원도",
+      "zone": [
+        "강릉시",
+        "동해시",
+        "삼척시",
+        "속초시",
+        "원주시",
+        "춘천시",
+        "태백시",
+        "고성군",
+        "양구군",
+        "양양군",
+        "영월군",
+        "인제군",
+        "정선군",
+        "철원군",
+        "평창군",
+        "홍천군",
+        "화천군",
+        "횡성군"
+      ]
+    },
+    {
+      "area": "충청북도",
+      "zone": [
+        "제천시",
+        "청주시",
+        "충주시",
+        "괴산군",
+        "단양군",
+        "보은군",
+        "영동군",
+        "옥천군",
+        "음성군",
+        "증평군",
+        "진천군"
+      ]
+    },
+    {
+      "area": "충청남도",
+      "zone": [
+        "계룡시",
+        "공주시",
+        "논산시",
+        "당진시",
+        "보령시",
+        "서산시",
+        "아산시",
+        "천안시",
+        "금산군",
+        "부여군",
+        "서천군",
+        "예산군",
+        "청양군",
+        "태안군",
+        "홍성군"
+      ]
+    },
+    {
+      "area": "경상북도",
+      "zone": [
+        "경산시",
+        "경주시",
+        "구미시",
+        "김천시",
+        "문경시",
+        "상주시",
+        "안동시",
+        "영주시",
+        "영천시",
+        "포항시",
+        "고령군",
+        "군위군",
+        "봉화군",
+        "성주군",
+        "영덕군",
+        "영양군",
+        "예천군",
+        "울릉군",
+        "울진군",
+        "의성군",
+        "청도군",
+        "청송군",
+        "칠곡군"
+      ]
+    },
+    {
+      "area": "경상남도",
+      "zone": [
+        "거제시",
+        "김해시",
+        "밀양시",
+        "사천시",
+        "양산시",
+        "진주시",
+        "창원시",
+        "통영시",
+        "거창군",
+        "고성군",
+        "남해군",
+        "산청군",
+        "의령군",
+        "창녕군",
+        "하동군",
+        "함안군",
+        "함양군",
+        "합천군"
+      ]
+    },
+    {
+      "area": "전라북도",
+      "zone": [
+        "군산시",
+        "김제시",
+        "남원시",
+        "익산시",
+        "전주시",
+        "정읍시",
+        "고창군",
+        "무주군",
+        "부안군",
+        "순창군",
+        "완주군",
+        "임실군",
+        "장수군",
+        "진안군"
+      ]
+    },
+    {
+      "area": "전라남도",
+      "zone": [
+        "광양시",
+        "나주시",
+        "목포시",
+        "순천시",
+        "여수시",
+        "강진군",
+        "고흥군",
+        "곡성군",
+        "구례군",
+        "담양군",
+        "무안군",
+        "보성군",
+        "신안군",
+        "영광군",
+        "영암군",
+        "완도군",
+        "장성군",
+        "장흥군",
+        "진도군",
+        "함평군",
+        "해남군",
+        "화순군"
+      ]
+    }
+  ]
+}
