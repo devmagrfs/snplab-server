@@ -12,7 +12,10 @@ server.use((req, res, next) => {
   if (req.method === "POST") {
     req.body.createdAt = Date.now();
   }
-  
+  next();
+});
+
+server.use((req, res, next) => {
   if(req.method === "PATCH") => {
     req.body.createdAt = Date.now();
   }
