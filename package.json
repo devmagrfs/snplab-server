@@ -10,9 +10,9 @@
     "json-server": "^0.17.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "16.x"
   },
   "scripts": {
     "start": "node index.js"
-  },
+  }
 }
